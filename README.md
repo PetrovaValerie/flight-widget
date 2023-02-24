@@ -10,6 +10,8 @@ A passenger can:
 
 - monitor the flight remarks
 
+- the flight info updates every 5 seconds
+
 <div align="center">
 
 <!-- DESCRIPTION -->
